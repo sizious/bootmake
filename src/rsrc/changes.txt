@@ -1,0 +1,5 @@
+Changes:
+
+1.1 :	Fixed a problem with CD Labels with spaces (Thx Fackue)
+
+1.0 :	Initial release
